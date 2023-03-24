@@ -1,2 +1,2 @@
-# class3-repository
+# Bootcamp Challenges
 Random description
